@@ -1,0 +1,6 @@
+.list li:hover{
+    background-color: rgb(255, 255, 255);
+}
+.list li{
+    color: brown;
+}
